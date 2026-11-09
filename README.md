@@ -30,6 +30,7 @@
 Sources: [Linux](Linux/source/) · [Windows](Windows/source/). Installers: [IRVIO 1.0 release](https://github.com/Irviodotnet/Irvio/releases/tag/v1.0.0). Package versions and build provenance: [Release notes](RELEASE_NOTES.md).
 
 > [!WARNING]
+> You might encounter some teething issues regarding network stability—apologies for that; it is, after all, a beta.
 > In **Global VPN**, connecting also turns your device into an Exit Node for other participants. Their traffic may reach the internet through your public IP address. In **Private VPN**, you choose separately whether to share your connection with friends or connect through a friend. Friends you grant access to will also reach the internet through your public IP. Only share invitations with people you trust.
 
 <a id="about"></a>
